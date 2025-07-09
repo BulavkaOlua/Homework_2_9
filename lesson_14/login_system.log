@@ -1,0 +1,8 @@
+2025-07-09 15:59:25,862 - INFO - Login event - Username: admin, Status: success
+2025-07-09 15:59:25,862 - WARNING - Login event - Username: admin, Status: expired
+2025-07-09 15:59:25,863 - ERROR - Login event - Username: admin, Status: failed
+2025-07-09 15:59:25,863 - ERROR - Login event - Username: admin, Status: unknown
+2025-07-09 16:03:03,377 - INFO - Login event - Username: alice, Status: success
+2025-07-09 16:03:03,412 - WARNING - Login event - Username: bob, Status: expired
+2025-07-09 16:03:03,441 - ERROR - Login event - Username: carol, Status: failed
+2025-07-09 16:03:03,474 - ERROR - Login event - Username: dave, Status: invalid
