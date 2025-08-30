@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2549","test_search_button_presence","lesson_30","Sat Aug 30 11:55:17 EEST 2025","passed","Sat Aug 30 11:55:19 EEST 2025","","test_file_with_allure","",""
+"","3128","test_input_field_presence","lesson_30","Sat Aug 30 11:55:04 EEST 2025","passed","Sat Aug 30 11:55:08 EEST 2025","","test_file_with_allure","",""
+"","15891","test_invalid_tracking_number","lesson_30","Sat Aug 30 11:54:30 EEST 2025","broken","Sat Aug 30 11:54:46 EEST 2025","","test_file_with_allure","",""
+"","3059","test_valid_tracking_number","lesson_30","Sat Aug 30 11:54:18 EEST 2025","passed","Sat Aug 30 11:54:22 EEST 2025","","test_file_with_allure","",""
+"","2368","test_logo_presence","lesson_30","Sat Aug 30 11:54:54 EEST 2025","passed","Sat Aug 30 11:54:56 EEST 2025","","test_file_with_allure","",""
